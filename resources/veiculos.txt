@@ -1,0 +1,12 @@
+Fulano
+Honda
+56789.12
+2021
+Beltrano
+Toyota
+67890.34
+2020
+Sincrano
+Hyundai
+45678.56
+2019
